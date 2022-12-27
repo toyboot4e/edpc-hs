@@ -1,0 +1,25 @@
+cradle:
+  stack:
+    - path: "./a/Main.hs"
+      component: "dp:exe:a-exe"
+
+    - path: "./b/Main.hs"
+      component: "dp:exe:b-exe"
+
+    - path: "./c/Main.hs"
+      component: "dp:exe:c-exe"
+
+    - path: "./d/Main.hs"
+      component: "dp:exe:d-exe"
+
+    - path: "./e/Main.hs"
+      component: "dp:exe:e-exe"
+
+    - path: "./ex/Main.hs"
+      component: "dp:exe:ex-exe"
+
+    - path: "./f/Main.hs"
+      component: "dp:exe:f-exe"
+
+    - path: "./g/Main.hs"
+      component: "dp:exe:g-exe"
