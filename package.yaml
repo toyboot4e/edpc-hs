@@ -48,7 +48,6 @@ _exe-defs: &exe-defaults
     - -Wall # all warnings
   other-modules: []
 
-# REMARK: See `README` for the langauge server support.
 executables:
   a-exe:
     <<: *exe-defaults
@@ -85,8 +84,97 @@ executables:
     source-dirs: g
     main:                Main.hs
 
-  ex-exe:
+  h-exe:
     <<: *exe-defaults
-    source-dirs: ex
+    source-dirs: h
     main:                Main.hs
 
+  i-exe:
+    <<: *exe-defaults
+    source-dirs: i
+    main:                Main.hs
+
+  j-exe:
+    <<: *exe-defaults
+    source-dirs: j
+    main:                Main.hs
+
+  k-exe:
+    <<: *exe-defaults
+    source-dirs: k
+    main:                Main.hs
+
+  l-exe:
+    <<: *exe-defaults
+    source-dirs: l
+    main:                Main.hs
+
+  m-exe:
+    <<: *exe-defaults
+    source-dirs: m
+    main:                Main.hs
+
+  n-exe:
+    <<: *exe-defaults
+    source-dirs: "n"
+    main:                Main.hs
+
+  o-exe:
+    <<: *exe-defaults
+    source-dirs: o
+    main:                Main.hs
+
+  p-exe:
+    <<: *exe-defaults
+    source-dirs: p
+    main:                Main.hs
+
+  q-exe:
+    <<: *exe-defaults
+    source-dirs: q
+    main:                Main.hs
+
+  r-exe:
+    <<: *exe-defaults
+    source-dirs: r
+    main:                Main.hs
+
+  s-exe:
+    <<: *exe-defaults
+    source-dirs: s
+    main:                Main.hs
+
+  t-exe:
+    <<: *exe-defaults
+    source-dirs: t
+    main:                Main.hs
+
+  u-exe:
+    <<: *exe-defaults
+    source-dirs: u
+    main:                Main.hs
+
+  v-exe:
+    <<: *exe-defaults
+    source-dirs: v
+    main:                Main.hs
+
+  w-exe:
+    <<: *exe-defaults
+    source-dirs: w
+    main:                Main.hs
+
+  x-exe:
+    <<: *exe-defaults
+    source-dirs: x
+    main:                Main.hs
+
+  y-exe:
+    <<: *exe-defaults
+    source-dirs: "y"
+    main:                Main.hs
+
+  z-exe:
+    <<: *exe-defaults
+    source-dirs: z
+    main:                Main.hs
