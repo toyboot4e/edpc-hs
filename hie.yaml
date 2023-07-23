@@ -1,0 +1,79 @@
+cradle:
+  stack:
+    - path: "./z/Main.hs"
+      component: "edpc-hs:exe:z-exe"
+
+    - path: "./y/Main.hs"
+      component: "edpc-hs:exe:y-exe"
+
+    - path: "./x/Main.hs"
+      component: "edpc-hs:exe:x-exe"
+
+    - path: "./w/Main.hs"
+      component: "edpc-hs:exe:w-exe"
+
+    - path: "./v/Main.hs"
+      component: "edpc-hs:exe:v-exe"
+
+    - path: "./u/Main.hs"
+      component: "edpc-hs:exe:u-exe"
+
+    - path: "./t/Main.hs"
+      component: "edpc-hs:exe:t-exe"
+
+    - path: "./s/Main.hs"
+      component: "edpc-hs:exe:s-exe"
+
+    - path: "./r/Main.hs"
+      component: "edpc-hs:exe:r-exe"
+
+    - path: "./q/Main.hs"
+      component: "edpc-hs:exe:q-exe"
+
+    - path: "./p/Main.hs"
+      component: "edpc-hs:exe:p-exe"
+
+    - path: "./o/Main.hs"
+      component: "edpc-hs:exe:o-exe"
+
+    - path: "./n/Main.hs"
+      component: "edpc-hs:exe:n-exe"
+
+    - path: "./m/Main.hs"
+      component: "edpc-hs:exe:m-exe"
+
+    - path: "./l/Main.hs"
+      component: "edpc-hs:exe:l-exe"
+
+    - path: "./k/Main.hs"
+      component: "edpc-hs:exe:k-exe"
+
+    - path: "./j/Main.hs"
+      component: "edpc-hs:exe:j-exe"
+
+    - path: "./i/Main.hs"
+      component: "edpc-hs:exe:i-exe"
+
+    - path: "./h/Main.hs"
+      component: "edpc-hs:exe:h-exe"
+
+    - path: "./g/Main.hs"
+      component: "edpc-hs:exe:g-exe"
+
+    - path: "./f/Main.hs"
+      component: "edpc-hs:exe:f-exe"
+
+    - path: "./e/Main.hs"
+      component: "edpc-hs:exe:e-exe"
+
+    - path: "./d/Main.hs"
+      component: "edpc-hs:exe:d-exe"
+
+    - path: "./c/Main.hs"
+      component: "edpc-hs:exe:c-exe"
+
+    - path: "./b/Main.hs"
+      component: "edpc-hs:exe:b-exe"
+
+    - path: "./a/Main.hs"
+      component: "edpc-hs:exe:a-exe"

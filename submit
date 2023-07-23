@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# npm install atcoder-cli
+acc='npx acc'
+
 cd "$1"
-acc submit -s -- -y
+$acc submit -s -- -y
 
